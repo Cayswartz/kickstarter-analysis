@@ -10,7 +10,7 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-# We learned
+#### We learned
 
 ### Analysis of Outcomes Based on Goals
 
