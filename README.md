@@ -16,7 +16,7 @@ When taking a closer look at launch date there is one month that stands above th
 ### Analysis of Outcomes Based on Goals
 When looking at data like this you may assume that as the goal gets larger we may see the sucess rate decrease however this is not the case. We did see the  highest sucess rate between 1000 to 4999 however after that we saw a drop of in success rate until we reached 35000-39999 and 40000 to 44999 where we saw a 67% succcess rate for both. The largest outlier displayed by the chart was a spike in failures from 45000 to 49999 with 100% failures. That being said, the total number of projects was only 1 which when looking at rates can paint a incorrect picture of where drops and increases are seen. A larger data set size could help better portray this or looking at the true number of increases and decreases instead of the rate.
 
-https://github.com/Cayswartz/kickstarter-analysis/blob/724c783c05dc4f8afa84199b931cb50e929cbfc0/Outcomes_vs_Goals.png
+
 
 ### Challenges and Difficulties Encountered
 I ran into some issues with developing the COUNTIFS statements. While the statements themselves are fairly straight forward I found myself making mistakes like only doing larger and smaller statements rather than larger or equal to. I overcame this by slowing down and paying close attention to each piece of the equation that I wrote. Once I was able to slow down instead of rushing through all the equations I needed to write I was able to start producing the correct numbers in the table. 
