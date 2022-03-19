@@ -17,18 +17,19 @@ When taking a closer look at launch date there is one month that stands above th
 When looking at data like this you may assume that as the goal gets larger we may see the sucess rate decrease however this is not the case. We did see the  highest sucess rate between 1000 to 4999 however after that we saw a drop of in success rate until we reached 35000-39999 and 40000 to 44999 where we saw a 67% succcess rate for both. The largest outlier displayed by the chart was a spike in failures from 45000 to 49999 with 100% failures. That being said, the total number of projects was only 1 which when looking at rates can paint a incorrect picture of where drops and increases are seen. A larger data set size could help better portray this or looking at the true number of increases and decreases instead of the rate.
 
 ### Challenges and Difficulties Encountered
+I ran into some issues with developing the COUNTIFS statements. While the statements themselves are fairly straight forward I found myself making mistakes like only doing larger and smaller statements rather than larger or equal to. I overcame this by slowing down and paying close attention to each piece of the equation that I wrote. Once I was able to slow down instead of rushing through all the equations I needed to write I was able to start producing the correct numbers in the table. 
 
 ## Results
 
 ### What are two conclusions you can draw about the Outcomes based on Launch Date?
 1. May saw the strongest performance in terms of successfully launched campaigns
-2. October saw a large spike in failed campaigns with 
+2. October saw a large spike in failed campaigns with 50 failed campaigns.
 
 ### What can you conclude about the Outcomes based on Goals?
 Looking at the outcomes based on goals we saw the highest sucess rate between 1000 to 4999 however 35000-39999 and 40000 to 44999 were close seconds with a 67% success rate for both.
 
 ### What are some limitations of this dataset?
-
+I think this data set is fairly small and when breaking it down even more to campaigns that just occured in the United States it is cutting the number of rows down even further. We can see this throwing off the metrics and providing misleading chart results in the Outcomes based on goal.
 
 ### What are some other possible tables and/or graphs that we could create?
 I believe that often in order to paint the full picture of a smaller data set like this you must include both the percentage and totals. While both metrics are useful when there are situations where there may only be one success or failure that can cause a rate seem like an outlier when really it is just so large cause of the smaller sample size. 
