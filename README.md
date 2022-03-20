@@ -29,7 +29,7 @@ I ran into some issues with developing the COUNTIFS statements. While the statem
 Looking at the outcomes based on goals we saw the highest sucess rate between 1000 to 4999 however 35000-39999 and 40000 to 44999 were close seconds with a 67% success rate for both.
 
 ### What are some limitations of this dataset?
-I think this data set is fairly small and when breaking it down even more to campaigns that just occured in the United States it is cutting the number of rows down even further. We can see this throwing off the metrics and providing misleading chart results in the Outcomes based on goal.
+I think this data set is fairly small and when breaking it down even more to campaigns that just occured in the United States it is cutting the number of rows down even further. We can see this throwing off the metrics and providing misleading chart results in the outcomes based on goal chart.
 
 ### What are some other possible tables and/or graphs that we could create?
 I believe that often in order to paint the full picture of a smaller data set like this you must include both the percentage and totals. While both metrics are useful when there are situations where there may only be one success or failure that can cause a rate seem like an outlier when really it is just so large cause of the smaller sample size. 
