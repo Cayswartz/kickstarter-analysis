@@ -17,7 +17,7 @@ When taking a closer look at launch date there is one month that stands above th
 ### Analysis of Outcomes Based on Goals
 When looking at data like this you may assume that as the goal gets larger we may see the sucess rate decrease however this is not the case. We did see the  highest sucess rate between 1000 to 4999 however after that we saw a drop of in success rate until we reached 35000-39999 and 40000 to 44999 where we saw a 67% succcess rate for both. The largest outlier displayed by the chart was a spike in failures from 45000 to 49999 with 100% failures. That being said, the total number of projects was only 1 which when looking at rates can paint a incorrect picture of where drops and increases are seen. A larger data set size could help better portray this or looking at the true number of increases and decreases instead of the rate.
 
-![ScreenShot](https://github.com/Cayswartz/kickstarter-analysis/blob/a3edd785b51840cad9abedd1fc99aee1292d0b88/Resources/Outcomes_vs_Goals.png)
+![ScreenShot](https://github.com/Cayswartz/kickstarter-analysis/blob/9926ca3d645435cd978d0ce120cdef8d96c55659/Resources/Outcomes_vs_Goals.png)
 
 
 ### Challenges and Difficulties Encountered
